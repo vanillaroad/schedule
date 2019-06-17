@@ -9,7 +9,10 @@
 
 #### 발표 세션
 
-미정
+- 권기연님: 토마토소스 말고 크롬소스 ~탭~ 
+- 장명재님: Prettier vs. ESLint
+- 이은규님: nginx, docker 환경에서 let's encyrpt 사용해보기
+- 강낙훈님: float와 flex로 css layout grid다
 
 ---
 
